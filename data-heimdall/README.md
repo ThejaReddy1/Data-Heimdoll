@@ -31,7 +31,9 @@ Observant is a ClickHouse-native root-cause analyst for ad-tech metrics. It:
 
 ## Demo Video
 
-https://youtu.be/R-_2S3q4csk
+https://youtu.be/R-_2S3q4csk 
+## Deck PPT
+![Deck](./Heimdall_Automated_Root_Cause_Analysis.pptx)
 
 ## Architecture
 
