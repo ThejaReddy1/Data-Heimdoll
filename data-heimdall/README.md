@@ -31,7 +31,8 @@ Observant is a ClickHouse-native root-cause analyst for ad-tech metrics. It:
 
 ## Demo Video
 
-[![VideoDemo](./record_2026-08-02_11-36-02.mp4)](./record_2026-08-02_11-36-02.mp4)
+https://youtu.be/R-_2S3q4csk
+
 ## Architecture
 
 ![Architecture diagram](./Arch.png)
